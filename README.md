@@ -62,15 +62,6 @@ motto: "No satisfaction, no work."
 </td>
 </tr>
 
-<!-- ═══════════════ RANDOM DEV QUOTE ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>💭 RANDOM DEV QUOTE 💭</b><br/><br/></div></td></tr>
-<tr>
-<td colspan="3" align="center" valign="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
-
-</td>
-</tr>
 
 
 </table>
