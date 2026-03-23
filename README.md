@@ -9,7 +9,7 @@
 <table align="center" cellpadding="15" cellspacing="0">
 
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
-<tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/><br/></td></tr>
+<tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=ECBBF7&width=435&lines=%F0%9F%9A%80+Building+Scalable+Web+Apps+%26+Automation+Systems+;%E2%9A%99%EF%B8%8F+Next.js+%7C+TypeScript+%7C+Supabase+%7C+Bots+;%F0%9F%94%A5+Dashboards+%E2%80%A2+APIs+%E2%80%A2+Generators+%E2%80%A2+Real+Solutions" alt="Typing SVG" /></a><br/><br/></td></tr>
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
