@@ -271,9 +271,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <!-- ━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━ -->
 
-<div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a5cff&height=120&section=footer" />
 
 </div>
 
