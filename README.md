@@ -39,25 +39,7 @@ motto: "No satisfaction, no work."
 </tr>
 
 <!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🔗 CONNECT WITH ME 🔗</b><br/><br/></div></td></tr>
-<tr>
-<td colspan="3" align="center">
-<br/>
-<a href="https://www.linkedin.com/in/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://x.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-<a href="https://t.me/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="https://www.instagram.com/kmmhanan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.facebook.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://discordapp.com/users/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<br/><br/>
-<a href="https://dribbble.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/19575911" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-<a href="https://gitlab.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
-<a href="https://www.leetcode.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
-<a href="https://tryhackme.com/p/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-<br/><br/>
-</td>
-</tr>
+
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
