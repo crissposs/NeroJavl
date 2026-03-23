@@ -120,36 +120,6 @@ motto: "No satisfaction, no work."
 </td>
 </tr>
 
-<!-- ═══════════════ PROFILE BADGES ═══════════════ -->
-<tr><td colspan="3" align="center">
-  <div style="font-size: 1.5em; font-weight: bold; margin: 0;">
-    <br/><b>👤 PROFILE BADGES 👤</b><br/><br/>
-  </div>
-</td></tr>
-
-<tr>
-  <td width="40%" align="center" valign="center">
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=kmmhanan&style=for-the-badge&color=555555" alt="Profile Views" />
-    <br/><br/>
-  </td>
-
-  <td width="20%" align="center" valign="center">
-    <br/>
-    <a href="https://github.com/kmmhanan?tab=followers">
-      <img src="https://img.shields.io/github/followers/kmmhanan?style=for-the-badge&logo=github&color=555555&label= " alt="GitHub Followers" />
-    </a>
-    <br/><br/>
-  </td>
-
-  <td width="40%" align="center" valign="center">
-    <br/>
-    <a href="https://twitter.com/kmmhanan">
-      <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=555555&labelColor=555555" alt="Twitter Follow" />
-    </a>
-    <br/><br/>
-  </td>
-</tr>
 
 </table>
 
