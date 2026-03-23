@@ -48,18 +48,7 @@ motto: "No satisfaction, no work."
 
 
 <!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🐍 CONTRIBUTION SNAKE 🐍</b><br/><br/></div></td></tr>
-<tr>
-<td colspan="3" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
-</picture>
-
-</td>
-</tr>
 
 
 
