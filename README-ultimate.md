@@ -28,9 +28,9 @@
 <td width="55%" valign="top">
 
 ```yaml
-name: Kmm Hanan
-role: Full Stack Mobile & Web Developer | UI/UX Designer
-motto: "I will work only if I am satisfied 😅"
+name: Cristian Ramirez 
+role: Fullstack Developer | APIs · Bots · Web Apps
+motto: "Scraping for fun 🐱"
 ```
 
 &nbsp;&nbsp;🏦 &nbsp;Currently building **Banking Applications with Flutter**<br/>
