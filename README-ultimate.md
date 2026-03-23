@@ -3,12 +3,7 @@
 <div align="center">
 
  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Laravel+%7C+React+%7C+.NET+Core+%7C+Spring+Boot;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" />
-  </a>
-
-  
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F5C2F7&width=435&lines=++++++++++++++++++++%F0%9F%99%8C%F0%9F%8F%BB+About+me" alt="Typing SVG" /></a>
 
 <br/>
 
