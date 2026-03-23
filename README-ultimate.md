@@ -13,18 +13,7 @@
   </a>
 
   <!-- PROFILE BADGES -->
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://twitter.com/kmmhanan_">
-    <img src="https://img.shields.io/twitter/follow/kmmhanan_?logo=twitter&style=for-the-badge&color=00d2ff&labelColor=0d1117" alt="Twitter Follow" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kmmhanan?tab=followers">
-    <img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=7a5cff&labelColor=0d1117" alt="GitHub Followers" />
-  </a>
 
-</div>
 
 <br/>
 
