@@ -2,12 +2,38 @@
 <!--                    🔥 KMM HANAN — GitHub Profile                -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
+<!-- ━━━━━━━━━━━━━ MAIN CONTENT TABLE ━━━━━━━━━━━━━ -->
+
 <div align="center">
 
 <table align="center" cellpadding="15" cellspacing="0">
 
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
 <tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/><br/></td></tr>
+
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
+<tr>
+<td colspan="2"  valign="top">
+
+```yaml
+name: Kmm Hanan
+role: Flutter & Node.js Developer | UI/UX Designer
+motto: "No satisfaction, no work."
+```
+
+🏦 &nbsp;Working as a Senior Software Engineer <a href="https://tech.kmm.zone" target="_blank">**@Tech Zone**</a><br/>
+🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
+💬 &nbsp;Ask me about **Flutter · React · Node.js · Python**<br/>
+🤝 &nbsp;Open to discuss about **AI · LLMs**<br/>
+🕸️ &nbsp;Portfolio → <a href="https://www.kmmhanan.com/" target="_blank">**kmmhanan.com**</a><br/>
+📧 &nbsp;Reach me → **hanan@kmmhanan.com**
+
+</td>
+<td colspan="1" align="center" valign="center">
+<img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
+</td>
+</tr>
 
 <!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🔗 CONNECT WITH ME 🔗</b><br/><br/></div></td></tr>
@@ -31,6 +57,7 @@
 </tr>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
+
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>⚙️ TECH STACK ⚙️</b><br/><br/></div></td></tr>
 <tr>
 <td colspan="3" align="center">
@@ -57,4 +84,77 @@
 </td>
 </tr>
 
-<!-- (todo lo demás queda igual ↓) -->
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>📈 GITHUB ANALYTICS 📈</b><br/><br/></div></td></tr>
+<tr>
+<td colspan="3" align="center">
+
+<a href="https://github.com/kmmhanan"><img width="70%" src="https://streak-stats.demolab.com?user=kmmhanan&theme=highcontrast&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="Streak Stats" /></a>
+<br/><br/>
+<a href="https://github.com/kmmhanan"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kmmhanan&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" alt="Activity Graph" /></a>
+
+</td>
+</tr>
+
+<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🐍 CONTRIBUTION SNAKE 🐍</b><br/><br/></div></td></tr>
+<tr>
+<td colspan="3" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
+</picture>
+
+</td>
+</tr>
+
+<!-- ═══════════════ RANDOM DEV QUOTE ═══════════════ -->
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>💭 RANDOM DEV QUOTE 💭</b><br/><br/></div></td></tr>
+<tr>
+<td colspan="3" align="center" valign="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
+
+</td>
+</tr>
+
+<!-- ═══════════════ PROFILE BADGES ═══════════════ -->
+<tr><td colspan="3" align="center">
+  <div style="font-size: 1.5em; font-weight: bold; margin: 0;">
+    <br/><b>👤 PROFILE BADGES 👤</b><br/><br/>
+  </div>
+</td></tr>
+
+<tr>
+  <td width="40%" align="center" valign="center">
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=kmmhanan&style=for-the-badge&color=555555" alt="Profile Views" />
+    <br/><br/>
+  </td>
+
+  <td width="20%" align="center" valign="center">
+    <br/>
+    <a href="https://github.com/kmmhanan?tab=followers">
+      <img src="https://img.shields.io/github/followers/kmmhanan?style=for-the-badge&logo=github&color=555555&label= " alt="GitHub Followers" />
+    </a>
+    <br/><br/>
+  </td>
+
+  <td width="40%" align="center" valign="center">
+    <br/>
+    <a href="https://twitter.com/kmmhanan">
+      <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=555555&labelColor=555555" alt="Twitter Follow" />
+    </a>
+    <br/><br/>
+  </td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--          Made with ❤️ by Kmm Hanan | kmmhanan.com               -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
