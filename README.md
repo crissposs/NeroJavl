@@ -85,16 +85,7 @@ motto: "No satisfaction, no work."
 </tr>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>📈 GITHUB ANALYTICS 📈</b><br/><br/></div></td></tr>
-<tr>
-<td colspan="3" align="center">
 
-<a href="https://github.com/kmmhanan"><img width="70%" src="https://streak-stats.demolab.com?user=kmmhanan&theme=highcontrast&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="Streak Stats" /></a>
-<br/><br/>
-<a href="https://github.com/kmmhanan"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kmmhanan&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" alt="Activity Graph" /></a>
-
-</td>
-</tr>
 
 <!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🐍 CONTRIBUTION SNAKE 🐍</b><br/><br/></div></td></tr>
