@@ -29,7 +29,7 @@ motto: "No satisfaction, no work."
 🕸️ &nbsp;Portfolio → <a href="https://www.kmmhanan.com/" target="_blank">**kmmhanan.com**</a><br/>
 📧 &nbsp;Reach me → **hanan@kmmhanan.com**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,supabase,postgres,tailwind,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,supabase,postgres,tailwind" />
 
 
 </td>
