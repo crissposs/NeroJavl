@@ -28,6 +28,9 @@ motto: "No satisfaction, no work."
 🤝 &nbsp;Open to discuss about **AI · LLMs**<br/>
 🕸️ &nbsp;Portfolio → <a href="https://www.kmmhanan.com/" target="_blank">**kmmhanan.com**</a><br/>
 📧 &nbsp;Reach me → **hanan@kmmhanan.com**
+🚀 Tech:
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,react,python,figma" />
+
 
 </td>
 <td colspan="1" align="center" valign="center">
