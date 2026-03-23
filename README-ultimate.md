@@ -33,14 +33,10 @@ role: Fullstack Developer | APIs · Bots · Web Apps
 motto: "Scraping for fun 🐱"
 ```
 
-&nbsp;&nbsp;🏦 &nbsp;Currently building **Banking Applications with Flutter**<br/>
-&nbsp;&nbsp;🌱 &nbsp;Exploring **Flutter · Laravel · Spring Boot · React JS**<br/>
-&nbsp;&nbsp;🤝 &nbsp;Open to collaborate on **Flutter & Full Stack Projects**<br/>
-&nbsp;&nbsp;👨‍💻 &nbsp;Portfolio → [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
-&nbsp;&nbsp;📝 &nbsp;I write articles at [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
-&nbsp;&nbsp;💬 &nbsp;Ask me about **Flutter, C#, ASP.NET Core, React, Laravel, PHP**<br/>
-&nbsp;&nbsp;📫 &nbsp;Reach me at **hanan@kmmhanan.com**<br/>
-&nbsp;&nbsp;📄 &nbsp;My experiences → [**Resume**](https://www.kmmhanan.com/)
+&nbsp;&nbsp;🏦 &nbsp;Currently building **Web Platforms & Automation Systems**<br/>
+&nbsp;&nbsp;🌱 &nbsp;Exploring **Next.js · Node.js · APIs · Automation**<br/>
+&nbsp;&nbsp;👨‍💻 &nbsp;Portfolio → [**tatadata.lat**](https://tatadata.lat)<br/>
+&nbsp;&nbsp;📫 &nbsp;Reach me at **crissposs@tatadata.lat**<br/>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,tailwind" />
 
